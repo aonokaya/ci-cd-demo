@@ -38,7 +38,7 @@ jobs:
 
       # 4. lint 実行 — コードの書き方チェック
       - name: ruff でコード品質チェック
-        run: ruff check src/ tests/ --ignore I001
+        run: ruff check src/ tests/
 
   # ────────────────────────────────────────────
   # Job 2: テスト実行
