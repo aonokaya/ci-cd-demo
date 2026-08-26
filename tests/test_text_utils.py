@@ -2,7 +2,6 @@
 
 from src.text_utils import count_words, is_palindrome, reverse_string
 
-
 # ========== reverse_string のテスト ==========
 
 def test_reverse_normal():
