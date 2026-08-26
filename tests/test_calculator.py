@@ -1,7 +1,7 @@
 """calculator.py のテスト"""
 
 import pytest
-from src.calculator import add, subtract, multiply, divide
+from src.calculator import add, divide, multiply, subtract
 
 
 # ========== add のテスト ==========

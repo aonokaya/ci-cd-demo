@@ -1,6 +1,6 @@
 """text_utils.py のテスト"""
 
-from src.text_utils import reverse_string, count_words, is_palindrome
+from src.text_utils import count_words, is_palindrome, reverse_string
 
 
 # ========== reverse_string のテスト ==========
